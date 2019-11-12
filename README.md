@@ -1,2 +1,2 @@
-# Food_Truck_Locator
+# Food Truck Locator
 Android App which lets users locate nearby food trucks
