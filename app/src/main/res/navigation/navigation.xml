@@ -32,12 +32,15 @@
             app:destination="@id/launcher"
             app:popUpTo="@+id/launcher"
             app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_registerButton_to_loginButton"
+            app:destination="@id/loginButton" />
     </fragment>
     <fragment
         android:id="@+id/loginButton"
         android:name="com.android.example.foodtrucklocator.Login"
-        android:label="login_fragment"
-        tools:layout="@layout/login" >
+        android:label="Login"
+        tools:layout="@layout/login">
         <action
             android:id="@+id/action_loginFragment_to_titleFragment"
             app:destination="@id/launcher"

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026715878684",
+    "firebase_url": "https://foodtrucklocator-838c9.firebaseio.com",
+    "project_id": "foodtrucklocator-838c9",
+    "storage_bucket": "foodtrucklocator-838c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026715878684:android:da7a0e60de99caadfc26d9",
+        "android_client_info": {
+          "package_name": "com.android.example.foodtrucklocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026715878684-q53vuafsuq2bfm887ih6lh0h87piau99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hKR3l9zG31-EsHi1O4yW_LCtAZEFJHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026715878684-q53vuafsuq2bfm887ih6lh0h87piau99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
