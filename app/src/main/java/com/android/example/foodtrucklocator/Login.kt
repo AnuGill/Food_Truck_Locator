@@ -39,7 +39,7 @@ class Login : Fragment() {
         val buttonLoginID = view.findViewById<Button>(R.id.btn_login)
         val buttonToReg = view.findViewById<TextView>(R.id.link_signup)
         buttonToReg.setOnClickListener { view ->view.findNavController().
-            navigate(R.id.action_registerButton_to_loginButton)}
+            navigate(R.id.action_loginButton_to_registerButton)}
 
 
         //button clicked
@@ -81,13 +81,8 @@ class Login : Fragment() {
                             Log.d("Error", "DocumentSnapshot Fetched: "+"${document.id} => ${document["password"]}")
 
                             if("${document["password"]}"==password){
-                                val alertDialog = AlertDialog.Builder(context).create()
-                                alertDialog.setTitle("Alert")
-                                alertDialog.setMessage("Logged In")
-                                alertDialog.setButton(
-                                    AlertDialog.BUTTON_NEUTRAL, "OK",
-                                    DialogInterface.OnClickListener { dialog, which -> dialog.dismiss() })
-                                alertDialog.show()
+                               
+                                view.findNavController().navigate(R.id.action_loginButton_to_mapsActivity)
                             }
                             else {
                                 val alertDialog = AlertDialog.Builder(context).create()
