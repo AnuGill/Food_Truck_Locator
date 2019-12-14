@@ -7,7 +7,7 @@
     <fragment
         android:id="@+id/launcher"
         android:name="com.android.example.foodtrucklocator.Launcher"
-        android:label="launcher"
+        android:label="Food Truck Locator"
         tools:layout="@layout/launcher">
         <action
             android:id="@+id/action_titleFragment_to_registerFragment"
