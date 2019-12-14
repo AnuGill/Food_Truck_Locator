@@ -38,7 +38,8 @@ Android device with working GPS location
 
 # Credits:
 Gill Anuveer Kaur (anuveerkaur93@gmail.com)\
+Muppala Chandraiah Deepankumar (kumardeepan29@gmail.com)\
 Jaiswal Puja(pujajais.j@gmail.com)\
 Jiyani Rajkumar(raj.jiyani121@gmail.com)\
 Khadke Mansi (mansi.khadke12@gmail.com)\
-Muppala Chandraiah Deepankumar (kumardeepan29@gmail.com)
+
