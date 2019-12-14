@@ -12,7 +12,7 @@ CS-4540 Android Project
 This app is for the users who want to use the food truck servies nearby and also to track the current location of the food truck. It can be used for either single or bulk order based on the type of the user.\
 Language used : Kotlin\
 Development Tool : Android Studio\
-Database used: Firebase ( Cloud applciation by Google)
+Database used: Firebase ( Cloud application by Google)
 
 # Instruction:
 User installs this app Food Truck Locator.\
