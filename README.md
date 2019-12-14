@@ -1,5 +1,5 @@
 # Food Truck Locator
-Fall 2019
+Fall 2019\
 CS4540 Android Project
 
 # Description:
