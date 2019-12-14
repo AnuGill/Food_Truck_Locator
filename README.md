@@ -10,13 +10,14 @@ Added maps with all the information about the food trucks using map fragment\
 once the login is successfull or the user uses guest login it navigates to map fragment\
 shows all the food trucks nearby.
 
+Raj: Working with Software Design Document.
 
 # Food Truck Locator
 Fall 2019\
 CS-4540 Android Project
 
 # Description:
-This app is for the users who want to use the food truck servies nearby and also to track the current location of the food truck. This project focuses on developing this android application by using the Kotlin, SQL Server and Firebase for cloud connectivity and install this on the Android devices. It can be used for either single or bulk order based on the type of the user.
+This app is for the users who want to use the food truck servies nearby and also to track the current location of the food truck.  It can be used for either single or bulk order based on the type of the user.
 Language used : Kotlin\
 Development Tool : Android Studio\
 Database used: Firebase ( Cloud application by Google)
