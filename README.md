@@ -1,20 +1,6 @@
 # Food Truck Locator
-Android App which lets users locate nearby food trucks\
-Puja: added the register/login page with firebase Authentication.\
-Added the firebase email and password authentication. \
-Added the regex for data validation
-
-
-DEEPAN : Added maps using google API key/
-Added maps with all the information about the food trucks using map fragment\
-once the login is successfull or the user uses guest login it navigates to map fragment\
-shows all the food trucks nearby.
-
-Raj: Working with Software Design Document.
-
-# Food Truck Locator
-Fall 2019\
-CS-4540 Android Project
+# Fall 2019\
+# CS4540 Android Project
 
 # Description:
 This app is for the users who want to use the food truck servies nearby and also to track the current location of the food truck.  It can be used for either single or bulk order based on the type of the user.
