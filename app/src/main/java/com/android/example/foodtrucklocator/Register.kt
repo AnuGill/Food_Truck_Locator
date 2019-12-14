@@ -180,6 +180,7 @@ class Register : Fragment() {
                     DialogInterface.OnClickListener { dialog, which -> dialog.dismiss() })
 
                 alertDialog.show()
+                view.findNavController().navigate(R.id.action_registerButton_to_loginButton)
             }
 
         }
