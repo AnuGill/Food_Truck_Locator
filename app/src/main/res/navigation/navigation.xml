@@ -49,6 +49,9 @@
         <action
             android:id="@+id/action_loginButton_to_mapsActivity"
             app:destination="@id/mapsActivity" />
+        <action
+            android:id="@+id/action_loginButton_to_registerButton"
+            app:destination="@id/registerButton" />
     </fragment>
     <fragment
         android:id="@+id/account"
