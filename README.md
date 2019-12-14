@@ -8,7 +8,7 @@ Language used : Kotlin\
 Development Tool : Android Studio\
 Database used: Firebase ( Cloud application by Google)
 
-# Instruction:
+# Instructions:
 User installs this app Food Truck Locator.\
 Then needs to turn on internet connectivity and GPS Location.\
 This App needs either an active members account who already knows login credentials or for new user they need to signup for this app.\
